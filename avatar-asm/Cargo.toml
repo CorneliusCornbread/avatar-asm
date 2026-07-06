@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 gltf = "1.4.1"
+wasmtime = "46.0.1"
