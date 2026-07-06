@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "avatar-asm",
+    "bevy-avatar-asm"
+]
+resolver = "3"
+rust-version = "1.96.0"
